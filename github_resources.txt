@@ -3,3 +3,5 @@ Prashanth Pandey Spark Streaming Repo : https://github.com/LearningJournal/Apach
 Ashutosh Kumar Spark Streaming Repo : https://github.com/aksashu000/LearnSparkStreamingWithAshutosh
 
 Ease with Data Spark Streaming Repo : https://github.com/subhamkharwal/spark-streaming-with-pyspark
+
+Databricks with Azure Event Hub : https://github.com/Azure/azure-event-hubs-spark/tree/master/docs/PySpark
